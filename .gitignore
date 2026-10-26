@@ -1,0 +1,17 @@
+# Dados do projeto (evita enviar suas tarefas pessoais para o GitHub)
+tasktracker.json
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Configurações de Sistema e Editores
+.vscode/
+.idea/
+.DS_Store
